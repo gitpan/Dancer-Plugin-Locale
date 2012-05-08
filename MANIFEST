@@ -1,0 +1,12 @@
+Build.PL
+Changes
+lib/Dancer/Plugin/Locale.pm
+lib/Dancer/Plugin/Locale/Detect.pm
+lib/Dancer/Plugin/Locale/TextDomain.pm
+MANIFEST			This list of files
+README
+t/00-load.t
+Makefile.PL
+LICENSE
+META.yml
+META.json
