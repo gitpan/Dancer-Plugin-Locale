@@ -1,5 +1,8 @@
 Revision history for Dancer-Plugin-Locale
 
-0.1    2012-05-05
-       - initial release
+0.0101  2013-03-26
+  - import confess
+
+0.01    2012-05-05
+  - initial release
 
