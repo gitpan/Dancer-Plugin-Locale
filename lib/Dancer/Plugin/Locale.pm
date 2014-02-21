@@ -6,11 +6,11 @@ Dancer::Plugin::Locale - Dancer I18N plugins using Locale::TextDomain
 
 =head1 VERSION
 
-Version 0.0101
+Version 0.0102
 
 =cut
 
-our $VERSION = '0.0101';
+our $VERSION = '0.0102';
 
 =head1 MODULES
 

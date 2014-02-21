@@ -4,7 +4,7 @@
       "Nicolas Steenlant <nicolas.steenlant@ugent.be>"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "Module::Build version 0.4003, CPAN::Meta::Converter version 2.120921",
+   "generated_by" : "Module::Build version 0.4203",
    "license" : [
       "perl_5"
    ],
@@ -23,7 +23,7 @@
       },
       "configure" : {
          "requires" : {
-            "Module::Build" : "0.40"
+            "Module::Build" : "0.42"
          }
       },
       "runtime" : {
@@ -37,15 +37,15 @@
    "provides" : {
       "Dancer::Plugin::Locale" : {
          "file" : "lib/Dancer/Plugin/Locale.pm",
-         "version" : "0.0101"
+         "version" : "0.0102"
       },
       "Dancer::Plugin::Locale::Detect" : {
          "file" : "lib/Dancer/Plugin/Locale/Detect.pm",
-         "version" : "0.0101"
+         "version" : "0.0102"
       },
       "Dancer::Plugin::Locale::TextDomain" : {
          "file" : "lib/Dancer/Plugin/Locale/TextDomain.pm",
-         "version" : "0.0101"
+         "version" : "0.0102"
       }
    },
    "release_status" : "stable",
@@ -54,5 +54,5 @@
          "http://dev.perl.org/licenses/"
       ]
    },
-   "version" : "0.0101"
+   "version" : "0.0102"
 }

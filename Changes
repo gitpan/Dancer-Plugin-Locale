@@ -1,5 +1,9 @@
 Revision history for Dancer-Plugin-Locale
 
+0.0102  2014-02-21
+  - fix locale detect from Accept-Language header
+  - tests
+
 0.0101  2013-03-26
   - import confess
 
