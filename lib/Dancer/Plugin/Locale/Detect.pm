@@ -1,6 +1,6 @@
 package Dancer::Plugin::Locale::Detect;
 
-our $VERSION = '0.0102';
+our $VERSION = '0.0103';
 
 use strict;
 use warnings;

@@ -6,7 +6,7 @@ WriteMakefile
   'VERSION_FROM' => 'lib/Dancer/Plugin/Locale.pm',
   'PREREQ_PM' => {
                    'Dancer' => '1.3050',
-                   'Locale::TextDomain' => '1.20',
+                   'Locale::TextDomain' => '1.23',
                    'Locale::Util' => 0,
                    'Software::License' => 0,
                    'Test::Exception' => 0,

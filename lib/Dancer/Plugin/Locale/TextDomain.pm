@@ -1,6 +1,6 @@
 package Dancer::Plugin::Locale::TextDomain;
 
-our $VERSION = '0.0102';
+our $VERSION = '0.0103';
 
 use strict;
 use warnings;

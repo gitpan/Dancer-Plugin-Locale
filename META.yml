@@ -18,17 +18,17 @@ name: Dancer-Plugin-Locale
 provides:
   Dancer::Plugin::Locale:
     file: lib/Dancer/Plugin/Locale.pm
-    version: 0.0102
+    version: 0.0103
   Dancer::Plugin::Locale::Detect:
     file: lib/Dancer/Plugin/Locale/Detect.pm
-    version: 0.0102
+    version: 0.0103
   Dancer::Plugin::Locale::TextDomain:
     file: lib/Dancer/Plugin/Locale/TextDomain.pm
-    version: 0.0102
+    version: 0.0103
 requires:
   Dancer: 1.3050
-  Locale::TextDomain: 1.20
+  Locale::TextDomain: 1.23
   Locale::Util: 0
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.0102
+version: 0.0103

@@ -16,7 +16,7 @@ my $builder = Module::Build->new(
     },
     requires => {
         'Dancer' => '1.3050',
-        'Locale::TextDomain' => '1.20',
+        'Locale::TextDomain' => '1.23',
         'Locale::Util' => 0,
     },
     add_to_cleanup => [qw(
